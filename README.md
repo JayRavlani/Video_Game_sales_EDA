@@ -1,4 +1,4 @@
-# Video Game Sales Analysis
+# Sales Analysis of Video Game
 
 Welcome to the Video Game Sales Analysis repository! This repository contains exploratory data analysis (EDA) on video game sales data. Through this analysis, we aim to gain insights into trends, patterns, and factors influencing video game sales across different platforms, genres, and regions.
 
